@@ -1,0 +1,7 @@
+- id: protolint
+  name: protolint
+  description: Protobuf linter
+  entry: protolint
+  types: [proto]
+  language: golang
+  pass_filenames: true
